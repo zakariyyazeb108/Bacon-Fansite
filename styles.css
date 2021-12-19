@@ -1,0 +1,83 @@
+
+
+
+
+
+body {
+  background-image: url("https://a99d9b858c7df59c454c-96c6baa7fa2a34c80f17051de799bc8e.ssl.cf1.rackcdn.com/images/cast-iron-smoking.jpg");
+    text-align: center;
+    background-color: #ffb99a;
+    font-family: 'Shadows Into Light', cursive;
+    background-size: cover;
+}
+
+}
+
+p {
+  color: #8C0000;
+  size: 200px;
+}
+
+
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-size: 50px;
+       color: #851d41;
+       animation-duration: 1s;
+       animation-name: slidein;
+
+
+}
+
+:root {
+    --litepicker-container-months-color-bg: #fff;
+    --litepicker-container-months-box-shadow-color: #ddd;
+    --litepicker-footer-color-bg: #fafafa;
+    --litepicker-footer-box-shadow-color: #ddd;
+    --litepicker-tooltip-color-bg: #fff;
+    --litepicker-month-header-color: #333;
+    --litepicker-button-prev-month-color: #9e9e9e;
+    --litepicker-button-next-month-color: #9e9e9e;
+    --litepicker-button-prev-month-color-hover: #2196f3;
+    --litepicker-button-next-month-color-hover: #2196f3;
+    --litepicker-month-width: calc(var(--litepicker-day-width) * 7);
+    --litepicker-month-weekday-color: #9e9e9e;
+    --litepicker-month-week-number-color: #9e9e9e;
+    --litepicker-day-width: 38px;
+    --litepicker-day-color: #333;
+    --litepicker-day-color-hover: #2196f3;
+    --litepicker-is-today-color: #f44336;
+    --litepicker-is-in-range-color: #bbdefb;
+    --litepicker-is-locked-color: #9e9e9e;
+    --litepicker-is-start-color: #fff;
+    --litepicker-is-start-color-bg: #2196f3;
+    --litepicker-is-end-color: #fff;
+    --litepicker-is-end-color-bg: #2196f3;
+    --litepicker-button-cancel-color: #fff;
+    --litepicker-button-cancel-color-bg: #9e9e9e;
+    --litepicker-button-apply-color: #fff;
+    --litepicker-button-apply-color-bg: #2196f3;
+    --litepicker-button-reset-color: #909090;
+    --litepicker-button-reset-color-hover: #2196f3;
+    --litepicker-highlighted-day-color: #333;
+    --litepicker-highlighted-day-color-bg: #ffeb3b;
+}
+
+0% {
+    margin-left: 100%;
+    width: 300%;
+}
+100% {
+    margin-left: 0%;
+    width: 100%;
+}
+a {:hover 
+  background-color: yellow;
+}
